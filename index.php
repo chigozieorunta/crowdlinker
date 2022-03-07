@@ -1,2 +1,10 @@
 <?php
-// silene is golden.
+/**
+ * Index.php - Home Page
+ *
+ * @package Crowdlinker
+ */
+
+get_header();
+
+get_footer();
