@@ -16,5 +16,14 @@
   "bugs": {
     "url": "https://github.com/chigozieorunta/crowdlinker/issues"
   },
-  "homepage": "https://github.com/chigozieorunta/crowdlinker#readme"
+  "homepage": "https://github.com/chigozieorunta/crowdlinker#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.9"
+  }
 }
