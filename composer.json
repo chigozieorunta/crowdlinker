@@ -9,5 +9,7 @@
             "email": "chigozieorunta@yahoo.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "wpsh/local": "^0.2.3"
+    }
 }
