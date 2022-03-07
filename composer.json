@@ -1,0 +1,13 @@
+{
+    "name": "chigozieorunta/crowdlinker",
+    "description": "Crowdlinker Theme",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Chigozie Orunta",
+            "email": "chigozieorunta@yahoo.com"
+        }
+    ],
+    "require": {}
+}
