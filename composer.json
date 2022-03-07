@@ -1,15 +1,15 @@
 {
-    "name": "chigozieorunta/crowdlinker",
-    "description": "Crowdlinker Theme",
-    "type": "project",
-    "license": "GPL",
-    "authors": [
-        {
-            "name": "Chigozie Orunta",
-            "email": "chigozieorunta@yahoo.com"
-        }
-    ],
-    "require-dev": {
-        "wpsh/local": "^0.2.3"
+  "name": "chigozieorunta/crowdlinker",
+  "description": "Crowdlinker Theme",
+  "type": "project",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Chigozie Orunta",
+      "email": "chigozieorunta@yahoo.com"
     }
+  ],
+  "require-dev": {
+    "wpsh/local": "^0.2.3"
+  }
 }
