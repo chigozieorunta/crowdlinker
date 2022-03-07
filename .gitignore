@@ -1,3 +1,4 @@
+.vagrant
+console.log
 node_modules
-
 /vendor/
